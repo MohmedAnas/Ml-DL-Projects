@@ -36,6 +36,10 @@ This repository will gradually grow to include **20+ end-to-end projects** acros
 📦 Total projects planned: `20`  
 🚧 Projects completed: `1/20` *(stay tuned!)*
 
+## Links 
+| 1 | **Waiter Tips Prediction** | Basic ML Project With Linear Regression | [View Project](https://github.com/MohmedAnas/Ml-DL-Projects/tree/main/Waiter%20Tips%20Prediction%20with%20ML) | ✅ |
+
+
 ---
 
 ## 🧰 Tech Stack
