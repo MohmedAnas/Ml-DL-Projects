@@ -60,5 +60,4 @@ waiter-tips-prediction/
 
 ---
 
-📌 **Author:** Your Name  
-📬 **Contact:** your.email@example.com
+📌 **Author:** Mohmed Anas  
