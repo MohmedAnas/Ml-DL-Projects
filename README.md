@@ -39,7 +39,7 @@ This repository will gradually grow to include **20+ end-to-end projects** acros
 ## Links 
 | 1 | **Waiter Tips Prediction Model** | Basic ML Project With Linear Regression | [View Project](https://github.com/MohmedAnas/Ml-DL-Projects/tree/main/Waiter%20Tips%20Prediction%20with%20ML) | ✅ |
 
-| 1 | **Future Sales Prediction Model** | Basic ML Project With Linear Regression | [View Project](https://github.com/MohmedAnas/Ml-DL-Projects/tree/main/Waiter%20Tips%20Prediction%20with%20ML) | ✅ |
+| 2 | **Future Sales Prediction Model** | Basic ML Project With Linear Regression | [View Project](https://github.com/MohmedAnas/Ml-DL-Projects/tree/main/Future%20Sales%20Prediction) | ✅ |
 
 
 ---
