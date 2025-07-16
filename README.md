@@ -41,7 +41,9 @@ This repository will gradually grow to include **20+ end-to-end projects** acros
 
 | 2 | **Future Sales Prediction Model** | Basic ML Project With Linear Regression | [View Project](https://github.com/MohmedAnas/Ml-DL-Projects/tree/main/Future%20Sales%20Prediction) | ✅ |
 
-| 2 | **Visualize Machine Learning Algorithm** | Basic Linear Regression | [View Project](https://github.com/MohmedAnas/Ml-DL-Projects/tree/main/Visualize%20Machine%20Learning%20Algorithm) | ✅ |
+| 3 | **Visualize Machine Learning Algorithm** | Basic Linear Regression | [View Project](https://github.com/MohmedAnas/Ml-DL-Projects/tree/main/Visualize%20Machine%20Learning%20Algorithm) | ✅ |
+
+| 4 | **Instagram Reach Analysis** | Basic Data Analysis of Instagram Reach | [View Project](https://github.com/MohmedAnas/Ml-DL-Projects/tree/main/Instagram%20Reach%20Analysis) | ✅ |
 
 
 ---
